@@ -1,7 +1,7 @@
 ## blvckNote
-Open source group project for (Black in Tech slack group)['https://blackintech.slack.com/join/shared_invite/enQtMzY4OTA2NTYxNDc0LWM4NzZmYmFlZTc1MDg0MTVhNThjMDRlYTZkOGQ1MTZhYTBkOGMzZGVhM2VjYzVlYjdlNTA1NWI2N2NjMTQ4MmM']. This project is a small note archive solution to get beginner engineers' feet wet in some of the latest technologies. The concept behind the actual project is to allow users to have the ability to save markdown text to their account and refer to their saved notes at a later date. 
+Open source group project for (Black in Tech slack group)[https://blackintech.slack.com/join/shared_invite/enQtMzY4OTA2NTYxNDc0LWM4NzZmYmFlZTc1MDg0MTVhNThjMDRlYTZkOGQ1MTZhYTBkOGMzZGVhM2VjYzVlYjdlNTA1NWI2N2NjMTQ4MmM]. This project is a small note archive solution to get beginner engineers' feet wet in some of the latest technologies. The concept behind the actual project is to allow users to have the ability to save markdown text to their account and refer to their saved notes at a later date. 
 
-To join slack group (click here)['https://blackintech.slack.com/join/shared_invite/enQtMzY4OTA2NTYxNDc0LWM4NzZmYmFlZTc1MDg0MTVhNThjMDRlYTZkOGQ1MTZhYTBkOGMzZGVhM2VjYzVlYjdlNTA1NWI2N2NjMTQ4MmM']
+To join slack group (click here)[https://blackintech.slack.com/join/shared_invite/enQtMzY4OTA2NTYxNDc0LWM4NzZmYmFlZTc1MDg0MTVhNThjMDRlYTZkOGQ1MTZhYTBkOGMzZGVhM2VjYzVlYjdlNTA1NWI2N2NjMTQ4MmM]
 
 ### Stack
 MongoDb, Express, Angular, NodeJs
